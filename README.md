@@ -11,8 +11,8 @@ A g++ example:
 
 ## Using the command
 
-hc -c [file to be compressed] [appended file extension (optional)]
-hc -d [file to be decompressed] [file name for decompressed output (optional)]
+- hc -c [file to be compressed] [appended file extension (optional)]
+- hc -d [file to be decompressed] [file name for decompressed output (optional)]
 
 Examples:
 
